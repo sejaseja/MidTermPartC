@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Hp sejal
+ * @author Hp sejal Duhan
  */
 public class TestUserProfile {
     public static void main(String[] args) {
